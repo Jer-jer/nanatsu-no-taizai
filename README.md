@@ -18,6 +18,3 @@ in RegisterForm.vue
 Deadly Sin 2:
 in app.js in backend
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
